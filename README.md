@@ -130,6 +130,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 107 | [Git-Done](https://github.com/ChiragAJain/Git-Done) | Python, JavaScript, HTML, CSS | Productivity tool that tracks deadlines on issues and auto-closes them when PRs are merged; Notion embed support. |
 | 108 | [Kodus](https://github.com/kodustech/kodus-ai) | TypeScript | AI-assisted code review platform with AST-level analysis, configurable rules, and PR integration. |
 | 109 | [OWASP Nest](https://github.com/owasp/nest) | Python (Django), TypeScript (Next.js), Docker, AWS | Open-source security platform with backend in Django and frontend in Next.js; selected for Google Summer of Code 2025. |
+| 110 | [Aksharamukha.js](https://github.com/paramsiddharth/aksharamukha.js) | TypeScript, Python | A WASM port of the Python transliteration library Aksharamukha. | 
 
 
 ## How to Contribute
