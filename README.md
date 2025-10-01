@@ -112,6 +112,24 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 89 | [Portfolio Website Template](https://github.com/vatsalsinghkv/portfolio-website) | Next.js, TailwindCSS, TypeScript, Framer Motion | Personal portfolio template with animations and modern design; open for UI/UX improvements. |
 | 90 | [JobMiner](https://github.com/beingvirus/JobMiner) | Python, Selenium, BeautifulSoup | Web scraping toolkit for extracting job listings and exporting data to CSV/JSON/Excel. |
 | 91 | [Quote.Vote](https://github.com/orgs/QuoteVote/projects/1/views/1) | React, Next.js, GraphQL, MongoDB | Nonprofit open-source platform for respectful dialogue and quoting; beginner-friendly issues for frontend, backend, and docs. |
+| 92 | [Discord Webhook Library](https://github.com/ctrixcode/discord-webhook-library) | TypeScript | Library for creating richly formatted Discord webhook messages with a builder-style API and modern TypeScript support. |
+| 93 | [Pokemon Fetch CLI](https://github.com/ctrixcode/Pokemon-fetch-cli-Go) | Go | Simple CLI tool to fetch Pokémon data from the PokéAPI and store it locally. |
+| 94 | [Easy-Fix](https://github.com/vatsalsinghkv/easy-fix) | React, TailwindCSS, TypeScript, Zod | Web app to help contributors find beginner-friendly open-source issues. |
+| 95 | [KeyRunes](https://github.com/jonatasoli/keyrunes) | Rust | High-performance authorization engine supporting RBAC, ABAC, and ReBAC; lightweight and secure alternative to Keycloak auth. |
+| 96 | [particleFx](https://github.com/Anmol-TheDev/particleFx) | JavaScript, TypeScript, HTML, CSS | Lightweight framework-agnostic library for converting images into interactive particle hover effects. |
+| 97 | [Project Nova](https://github.com/AyushMann29/GrabHack-Project-Nova) | Python, HTML | Beginner-friendly project with good-first-issues; open for bug fixes, features, and documentation improvements. |
+| 98 | [Factorion Bot](https://github.com/tolik518/factorion-bot) | Rust | Reddit bot that replies with factorial calculations; active on multiple subreddits with 24k+ comments. |
+| 99 | [bulletty](https://github.com/CrociDB/bulletty) | Rust | TUI feed reader storing RSS/Atom articles as Markdown for offline sync and Obsidian-style usage. |
+| 100 | [package-particleFx](https://github.com/Anmol-TheDev/package-particleFx) | JavaScript, TypeScript, HTML, CSS | Open-source library for particle-based image hover effects with customizable physics and easy React/Vue integration. |
+| 101 | [All Leagues Prediction](https://github.com/dagbolade/all_leagues-_prediction) | Python, HTML | AI-powered football prediction platform with match analysis, stats, and model building. |
+| 102 | [HelixQue](https://github.com/HXQLabs/Helixque) | JavaScript, TypeScript, HTML, CSS | Real-time networking app using WebRTC and Socket.IO for video calls, chat, and peer-to-peer collaboration. |
+| 103 | [rovr](https://github.com/NSPC911/rovr) | Python | Post-modern terminal-based file manager for efficient navigation and file handling. |
+| 104 | [DineFit](https://github.com/imkrishnasarathi/DineFit) | JavaScript, TypeScript, HTML, CSS | Smart recipe discovery app tailored to individual dietary preferences. |
+| 105 | [AI Tools Hub](https://github.com/ArshdeepGrover/ai-tools-manager) | JavaScript, HTML | Community-driven directory for discovering and categorizing AI tools. |
+| 106 | [Component Library](https://github.com/Gyanthakur/component-library) | JavaScript, Next.js, TailwindCSS | Open-source UI component library with reusable elements like buttons and cards. |
+| 107 | [Git-Done](https://github.com/ChiragAJain/Git-Done) | Python, JavaScript, HTML, CSS | Productivity tool that tracks deadlines on issues and auto-closes them when PRs are merged; Notion embed support. |
+| 108 | [Kodus](https://github.com/kodustech/kodus-ai) | TypeScript | AI-assisted code review platform with AST-level analysis, configurable rules, and PR integration. |
+| 109 | [OWASP Nest](https://github.com/owasp/nest) | Python (Django), TypeScript (Next.js), Docker, AWS | Open-source security platform with backend in Django and frontend in Next.js; selected for Google Summer of Code 2025. |
 
 
 ## How to Contribute
