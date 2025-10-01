@@ -107,6 +107,11 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 84 | [Aibyss](https://github.com/move-fast-and-break-things/aibyss) | TypeScript, Vue, Nuxt, Prisma | Multiplayer coding game where you build AI to compete, with sandboxed code execution. |
 | 85 | [AniNotion](https://github.com/mohitahlawat2001/AniNotion) | JavaScript | Journal app to track anime, movies, and books. Beginner-friendly Hacktoberfest project. |
 | 86 | [DevUtils](https://github.com/ahammadabdullah/dev-utils) | Electron, React, TypeScript, Vite, Tailwind CSS | Developer utility desktop app with JSON validator, regex tester, UUID generator, converters, and more. |
+| 87 | [Openlane](https://github.com/theopenlane) | Go, TypeScript, React, Next.js | Open-source compliance automation platform; contribute to CI, metrics, docs, UI, and tooling improvements. |
+| 88 | [Dinka](https://github.com/nios-x/dinka) | MongoDB, Express, React, Next.js (MERN) | Modern social media platform for sharing posts, likes, comments, and real-time interactions. |
+| 89 | [Portfolio Website Template](https://github.com/vatsalsinghkv/portfolio-website) | Next.js, TailwindCSS, TypeScript, Framer Motion | Personal portfolio template with animations and modern design; open for UI/UX improvements. |
+| 90 | [JobMiner](https://github.com/beingvirus/JobMiner) | Python, Selenium, BeautifulSoup | Web scraping toolkit for extracting job listings and exporting data to CSV/JSON/Excel. |
+| 91 | [Quote.Vote](https://github.com/orgs/QuoteVote/projects/1/views/1) | React, Next.js, GraphQL, MongoDB | Nonprofit open-source platform for respectful dialogue and quoting; beginner-friendly issues for frontend, backend, and docs. |
 
 
 ## How to Contribute
