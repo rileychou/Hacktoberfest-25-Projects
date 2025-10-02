@@ -133,6 +133,25 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 110 | [Vector](https://github.com/vectordotdev/vector) | Rust | High-performance observability data pipeline for collecting, transforming, and routing logs, metrics, and traces. |
 | 111 | [ChainGate](http://github.com/riz4d/ChainGate) | Python, TypeScipt (Next.Js), C++ | ChainGate is a modern, blockchain-integrated access control system that combines NFC technology with distributed ledger security and AI-powered analytics. It provides real-time access management, user authentication, immutable audit trails through smart contract integration, and intelligent user behavior analysis through an integrated AI assistant that can answer natural language queries about user access patterns and history.|
 | 112 | [Aksharamukha.js](https://github.com/paramsiddharth/aksharamukha.js) | TypeScript, Python | A WASM port of the Python transliteration library Aksharamukha. | 
+| 113 | [Hacktoberfest 2025 Portfolio](https://github.com/yesiamrajeev/Hacktoberfest2025-Portfolio) | HTML, CSS, JavaScript | Portfolio repo with intentional bugs; contribute by fixing frontend/backend issues like a bug-hunting challenge. |
+| 114 | [GFG POTD](https://github.com/Gyanthakur/GFG_POTD) | C++, Python | Daily GeeksforGeeks problem solutions; contribute fixes, enhancements, or new problem submissions. |
+| 115 | [ZettaNote](https://github.com/braydenidzenga/zettanote) | JavaScript, Node.js, MongoDB, React, Material UI | Lightweight, Notion-inspired note-taking app with beginner-friendly and advanced contribution opportunities. |
+| 116 | [DevUI](https://github.com/fahimahammed/DevUI) | TypeScript | Modern shadcn/ui component library with live previews and copyable code snippets; contribute new components and docs. |
+| 117 | [EasySwitch](https://github.com/AllDotPy/EasySwitch) | Python | Unified SDK for payment integrations; add new providers, improve docs/tests, and enhance error handling. |
+| 118 | [VIVIDUS](https://github.com/vividus-framework/vividus) | Java | Test automation framework; contribute code, docs, bug fixes, or new features to grow the project. |
+| 119 | [SinkedIn](https://github.com/Preet-Sojitra/sinkedin) | React, JavaScript | LinkedIn-style platform focused on sharing failures; open for UI/UX and feature contributions. |
+| 120 | [Supplements Store Frontend](https://github.com/OpenCodeChicago/hacktoberfest-2025-frontend) | React, Vite, TailwindCSS | E-commerce frontend for supplements; contribute components, responsive layouts, and accessibility fixes. |
+| 121 | [OpenUI Library](https://github.com/alirezazim03/OpenUI-Library) | TypeScript, JavaScript | Community-driven component library; add new UI components, improve website, or propose creative designs. |
+| 122 | [MFBT Community Website](https://github.com/move-fast-and-break-things/mfbt.community) | HTML, CSS, JavaScript | Community website project; contribute bug fixes, new features, or help migrate to a static-site generator. |
+| 123 | [PyDeepFlow](https://github.com/ravin-d-27/PyDeepFlow) | Python | Simplified deep learning library; contribute features, tests, docs, and model enhancements. |
+| 124 | [HuloBiral Portfolio](https://github.com/hul0/hulobiral-portfolio-html) | HTML, CSS, JavaScript | Responsive space-themed portfolio with particle effects and custom cursor; contributions for UI/UX welcome. |
+| 125 | [GitHub Vulnerability Scanner](https://github.com/ayushmittal62/vulnerability-scanner) | Python, Hugging Face, Gradio, MCP | AI-powered repo vulnerability scanner; add detection features, RAG, RL loop, or improve Gradio UI. |
+| 126 | [TouchGrass Chess Engine](https://github.com/datavorous/touchgrass) | Python | Beginner-friendly chess engine; contribute new rules, algorithms, UCI support, or board optimizations. |
+| 127 | [GitHub Cards API](https://github.com/akanshSirohi/Github-Cards-API) | JavaScript, HTML, CSS | Generate sleek profile cards via Cloudflare Workers + Satori; contribute new card ideas and themes. |
+| 128 | [CocoIndex](https://github.com/cocoindex-io/cocoindex) | Rust, Python | Smart AI data transformation framework for building knowledge graphs and indexes. |
+| 129 | [QRSmith](https://github.com/akanshSirohi/QRSmith) | Java | Android QR code library with full customization; contribute new patterns, performance, and sample apps. |
+| 130 | [Lisbook](https://github.com/Ctoic/Lisbook) | HTML, CSS, JavaScript | Free audiobook platform with AI-powered summaries and gamified features; open to frontend, backend, and AI/ML contributions. |
+| 131 | [d-zone](https://github.com/nntin/d-zone) | TypeScript | Discord-driven ambient life simulator; contribute themes, testing structures, or UI enhancements. |
 
 
 ## How to Contribute
