@@ -155,6 +155,9 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 129 | [QRSmith](https://github.com/akanshSirohi/QRSmith) | Java | Android QR code library with full customization; contribute new patterns, performance, and sample apps. |
 | 130 | [Lisbook](https://github.com/Ctoic/Lisbook) | HTML, CSS, JavaScript | Free audiobook platform with AI-powered summaries and gamified features; open to frontend, backend, and AI/ML contributions. |
 | 131 | [d-zone](https://github.com/nntin/d-zone) | TypeScript | Discord-driven ambient life simulator; contribute themes, testing structures, or UI enhancements. |
+| 132 | [DeepEval](https://github.com/confident-ai/deepeval) | Python | LLM evaluation framework; contribute to metrics, test cases, docs, and integrations. Beginner-friendly with detailed guidance. |
+| 133 | [DeepTeam](https://github.com/confident-ai/deepteam) | Python | Red teaming toolkit for LLMs; improve documentation, add features, write test cases, and help with integrations. |
+| 134 | [d-back](https://github.com/nntin/d-back/) | Python | Websocket server and Python package; supports Python 8–13 and WebSockets 10–15. Provides callback-based interfaces and mock data for external projects. |
 
 
 ## How to Contribute
