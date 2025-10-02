@@ -13,6 +13,9 @@ This repository curates beginner-friendly, actively maintained open source proje
   </a>
 </div>
 
+<div align="center">
+  <img src="./HF2025-Header.png" alt="Hacktoberfest 2025 Banner" width="800">
+</div>
 
 ## Stay Updated
 
