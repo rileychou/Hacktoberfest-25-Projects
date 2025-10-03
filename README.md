@@ -158,6 +158,30 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 132 | [DeepEval](https://github.com/confident-ai/deepeval) | Python | LLM evaluation framework; contribute to metrics, test cases, docs, and integrations. Beginner-friendly with detailed guidance. |
 | 133 | [DeepTeam](https://github.com/confident-ai/deepteam) | Python | Red teaming toolkit for LLMs; improve documentation, add features, write test cases, and help with integrations. |
 | 134 | [d-back](https://github.com/nntin/d-back/) | Python | Websocket server and Python package; supports Python 8–13 and WebSockets 10–15. Provides callback-based interfaces and mock data for external projects. |
+| 135 | [Moments](https://github.com/ppratik07/moments) | Next.js, TypeScript, TailwindCSS, shadcn/ui, Zustand, Clerk, Node.js, Express.js, Prisma, PostgreSQL | Collaborative photo book app; invite friends to add photos/messages for unique digital gifts. Contribute to features, bug fixes, and backend improvements. |
+| 136 | [structured_streamer](https://github.com/PrestonBlackburn/structured_streamer) | Python, HTMX, FastAPI | Stream partial JSON from LLMs into valid JSON with UI examples; contribute features, bug fixes, or docs. Beginner-friendly with `pip install struct-strm`. |
+| 137 | [hacktoberfest-2025-backend](https://github.com/OpenCodeChicago/hacktoberfest-2025-backend) | Node.js, Express, MongoDB | Backend for a supplements store; contribute to product APIs, error handling, wishlist endpoints, docs, and testing. |
+| 138 | [Responsive Layout Builder](https://github.com/devansharora18/layout) | JSX, TailwindCSS, HTML, CSS | Web tool for creating and testing layouts; split sections, adjust, and export JSX + Tailwind or HTML + CSS. |
+| 139 | [ApothecaryShop](https://github.com/mohitahlawat2001/ApothecaryShop) | MERN (MongoDB, Express, React, Node.js), TailwindCSS | Pharmaceutical inventory system; manage stock, procurement, and distribution. Open for full-stack contributions. |
+| 140 | [Loco-Musica](https://github.com/mohitahlawat2001/Loco-Musica) | JavaScript, React, Redux Toolkit, TailwindCSS | Fun web app that pairs food vibes with music; contribute to UI/UX, features, or docs. |
+| 141 | [Ctrix-Chat-App](https://github.com/ctrixcode/Ctrix-Chat-App) | React, Firebase | Real-time chat app; help with features, UI/UX, and bug fixes. Beginner-friendly issues open. |
+| 142 | [Jura](https://github.com/GnautSpace/Jura) | JavaScript | AI-powered legal document assistant that summarizes and reads PDFs; contribute to AI features, bugs, or docs. |
+| 143 | [Natrix](https://github.com/serpent-Tools/natrix) | Rust | Ergonomic Rust frontend framework in early development; contribute core features, reactivity runtime, and docs. |
+| 144 | [exam-countdown-extension](https://github.com/NovatraX/exam-countdown-extension) | HTML, JavaScript | Browser extension for live exam countdowns, wallpapers, themes, and music; improve popup UI and features. |
+| 145 | [Helixque](https://github.com/HXQLabs/Helixque) | (unspecified) | An open-source project by HXQ Labs, details available in the repo. |
+| 146 | [HMPL.js](https://github.com/hmpl-language/hmpl) | JavaScript | Server-driven UI templates with minimal JS; contribute to syntax, forms, events, and syncing features. |
+| 147 | [Clienvy](https://github.com/Annanyatiwary4/clienvy) | JavaScript | CLI tool that detects secrets, replaces with env vars, and sets up Git pre-commit hooks; contribute features, docs, or bug fixes. |
+| 148 | [Obfussor](https://github.com/matrixbytes/Obfussor) | Rust, Angular (TypeScript) | Cross-platform code editor with live runtime obfuscator for Objective-C & C++; contribute algorithms, plugins, or UI. |
+| 149 | [Nackt (Navit GPS)](https://github.com/navit-gps/navit) | C | Free GPS navigation software using OpenStreetMap data; contribute routing, maps, and UI. |
+| 150 | Itinerarly | [Frontend](https://github.com/Heisen47/itinerarly), [Backend](https://github.com/Heisen47/itinerarly-BE) | TypeScript (frontend), Java (backend) | AI-powered travel itinerary generator across India; contribute to frontend, backend, or deployment. |
+| 151 | [Peri](https://github.com/IraSoro/peri) | TypeScript, React | Period tracker app; contribute translations, features, or UI/UX improvements. |
+| 152 | [qcx](https://github.com/queuelab/qcx) | TypeScript | AGI interface "planet computer"; open for Hacktoberfest contributions in AI, infra, and tooling. |
+| 153 | [aksharamukha.js](https://github.com/paramsiddharth/aksharamukha.js) | WebAssembly, C++, JavaScript | Transliteration library for Indic scripts in the browser; contribute builds, performance, docs, or website. |
+| 154 | [Greenstagram](https://github.com/CipherYuvraj/Greenstagram) | React, TypeScript, Node.js, Express, MongoDB | Eco-focused social media platform with gamified green living; contribute to UI/UX, APIs, AI, or PWAs. |
+| 155 | [Forklet](https://github.com/AllDotPy/Forklet) | Python | GitHub repo downloader/handler for CI/CD; contribute to CLI, filters, API, and tests. |
+| 156 | [CSS Art Museum](https://github.com/Shamli-Singh-Yadav/css-art-museum) | CSS | Community gallery of creative CSS art pieces; add art, improve styles, or enhance gallery experience. |
+| 157 | [learn-postgresql](https://github.com/fahimahammed/learn-postgresql) | Markdown | Beginner-friendly PostgreSQL guide; improve docs, tutorials, and examples. |
+| 158 | [zero-share](https://github.com/ntsd/zero-share) | Astro, Svelte, TypeScript | Secure P2P file sharing with WebRTC and PGP; contribute to UI, encryption, or features. |
 
 
 ## How to Contribute
