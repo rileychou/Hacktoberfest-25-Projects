@@ -183,6 +183,51 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 157 | [learn-postgresql](https://github.com/fahimahammed/learn-postgresql) | Markdown | Beginner-friendly PostgreSQL guide; improve docs, tutorials, and examples. |
 | 158 | [zero-share](https://github.com/ntsd/zero-share) | Astro, Svelte, TypeScript | Secure P2P file sharing with WebRTC and PGP; contribute to UI, encryption, or features. |
 | 159 | [Deadlink-HUnter](https://github.com/Deadlink-Hunter/Broken-Link-Website) | React, TypeScript, css,  Storybook, storybook testing library, express, node.js, Docker, mantine | Broken link checker for github README, with option to auto open an issue and fix it (in the future). Containing website and a small server to check the validity of the links |
+| 160 | [Terminal CLI Agent](http://github.com/manikonda-rao/terminal_cli_agent) | Python | Terminal CLI agent exploring how AI can assist with everyday command-line tasks. Fun way to experiment with AI agents directly in the terminal. |
+| 161 | [Sleipnir](https://github.com/mengdotzip/sleipnir) | Go | Open-source vanity generator for ED25519 public keys; supports CPU & GPU processing. Contributions can include multi-pattern GPU support, documentation, tests, and benchmarks. |
+| 162 | [DocsGPT](https://github.com/arc53/DocsGPT) | Python, TypeScript | AI platform for building private agents, assistants, and enterprise search. Supports document analysis (PDFs, Office docs) with privacy control. |
+| 163 | [Start Express + React](https://github.com/rocambille/start-express-react) | JavaScript | Educational framework for building web apps with Express + React, including integrated production tools. |
+| 164 | [HealthChain](https://github.com/dotimplement/HealthChain) | Python | Open-source Python framework for productionizing AI in healthcare. Handles multiple data systems, FHIR-native NLP pipelines, and FastAPI production APIs. |
+| 165 | [YourCSS](https://github.com/Gyanthakur/yourcss_contribution) | CSS | Web app for exploring, interacting with, and copying beautiful CSS designs (buttons, forms, layouts). |
+| 166 | [Apollusia](https://github.com/Morphclue/apollusia) | Angular, NestJS, MongoDB | Open-source calendar coordination tool (like Doodle) designed to be free for everyone. Frontend with Angular & Bootstrap, backend with NestJS, MongoDB. |
+| 167 | [Sietch](https://github.com/SubstantialCattle5/Sietch) | Go | Decentralized, resilient vault system for encrypted files. Peer-to-peer, offline-first, CLI-oriented, lightweight, and privacy-focused. |
+| 168 | [ApplyBot](https://github.com/Kcodess2807/ApplyBot) | Python, Streamlit | Full-stack job application automation system. Automates resume/cover letter generation and project-job matching using AI. |
+| 169 | [SpendWise](https://github.com/Limeload/SpendWise) | Ruby | Beginner-friendly Ruby on Rails project for managing expenses. Good for learning and contributing to collaborative apps. |
+| 170 | [tldr-pages](https://github.com/tldr-pages/tldr) | Bash | Community-maintained help pages for command-line tools, simpler alternative to man pages. Contribute by creating or updating pages. |
+| 171 | [Affirm](https://github.com/mattlindsey/affirm) | Ruby | Small Ruby on Rails app with a bit of AI; tracks user mood and provides positive reinforcement. |
+| 172 | [OpenVScan](https://github.com/Buddhsen-tripathi/openvscan) | TypeScript | Web-based vulnerability scanner integrating open-source tools with AI for smarter pre-production security testing. |
+| 173 | [Chat Real](https://github.com/juninhokaponne/chat-real) | React, TypeScript | Real-time P2P video chat platform with WebRTC, camera/mic controls, responsive design, CI/CD ready, and Netlify deployment. |
+| 174 | [Love-Calculator](https://github.com/Deepak-Kambala/Love-Calculator) | HTML, CSS, JS | Beginner-friendly fun web app that calculates a playful “love score” between two names. Contribute by improving UI or animations. |
+| 175 | [Wooak](https://github.com/aryasoni98/wooak) | Go | Terminal-based SSH manager with AI recommendations and security analysis. Designed for long-term enterprise-grade contributions. |
+| 176 | [fheroes2](https://github.com/ihhub/fheroes2) | C++ | Open-source recreation of Heroes of Might and Magic 2 engine. Cross-platform, high-resolution graphics, improved AI, and gameplay. |
+| 177 | [Mind_Care](https://github.com/AbhishekChamp879/Mind_Care) | HTML, CSS, JavaScript | Digital mental wellness platform built with React. Open for UI/UX improvements, bug fixes, and new features. |
+| 178 | [ChittChat](https://github.com/shambhaveesrivastava12/ChittChat) | JavaScript | Real-time chatting app using MERN stack + Socket.io. Hacktoberfest contributions welcome for UI/UX and feature improvements. |
+| 179 | [FinSync360](https://github.com/GreenHacker420/Tally_sync) | JavaScript, TypeScript | Cloud-based ERP integrating Tally ERP, AI analytics, React dashboards, Node.js backend, and FastAPI services. |
+| 180 | [Helixque](https://github.com/HXQLabs/Helixque) | TypeScript | Open-source community project with beginner-friendly issues. Also includes [Helixque Landing](https://github.com/HXQLabs/helixque-landing). |
+| 181 | [HACKTOBERFEST_25_Python](https://github.com/A-K-0/HACKTOBERFEST_25_Python) | Python | Beginner-friendly Python repository for Hacktoberfest contributions. |
+| 182 | [Hacktoberfest_2025 Games](https://github.com/ABHIJATSARARI/Hacktoberfest_2025) | HTML, JavaScript | Open-source games for Hacktoberfest 2025. All languages and skill levels welcome. |
+| 183 | [unyunddit](https://github.com/profullstack/unyunddit) | JavaScript, PLpgSQL, Svelte | Anonymous Reddit clone for the Tor network with auto-deletion and server-side rendering only. |
+| 184 | [PaperScope](https://github.com/Ujjwal-Bajpayee/PaperScope) | Python | Open-source research paper management tool with AI summarization, key insight extraction, and paper organization. |
+| 185 | [is-a.software](https://github.com/is-a-software/is-a-software) | JavaScript | Free subdomain service for developers to use in projects. |
+| 186 | [pg-wire-mock](https://github.com/The-DevOps-Daily/pg-wire-mock) | JavaScript | Lightweight mock PostgreSQL server to work with psql. Useful for learning, debugging, and testing Postgres protocols. |
+| 187 | [zymo.tv](https://github.com/profullstack/zymo-web) | HTML, JavaScript | Self-hosted media server alternative to Emby/Plex. |
+| 188 | [T-Race](https://github.com/Ankit-raj-11/T-race) | JavaScript, Next.js | Gamified typing speed platform built with Next.js, beginner-friendly Hacktoberfest issues available. |
+| 189 | [SoG Savegame Editor](https://github.com/tolik518/SoG-Savegame-Editor) | C# | Save game editor for Secrets of Grindea; edit player stats, inventory, quests, and export to JSON. |
+| 190 | [Trawell](https://github.com/ishpreet36752/Trawell) | JavaScript | MonoRepo full-stack project setup for fast onboarding. Focused on frontend, backend, and database contributions. |
+| 191 | [TimeMachine](https://github.com/Harshdev625/TimeMachine) | JavaScript, Node.js | Productivity Chrome extension for tracking website usage, Pomodoro sessions, site blocking, and automated reports. |
+| 192 | [Algorithm Visualizer Platform](https://github.com/CipherYuvraj/Algorithm-Visualiser-Platform) | React, Python | Educational tool for interactive algorithm visualization. Frontend with React + TailwindCSS, backend with FastAPI. |
+| 193 | [Mini_Python_Projects](https://github.com/RK1905101/Mini_Python_Projects) | Python | Collection of Python mini-projects for Hacktoberfest contributions. Beginners welcome. |
+| 194 | [CLI Todo App](https://github.com/flyingSaucer87/cli-todo-app) | Node.js, Python | Interactive command-line task management tool. |
+| 195 | [HireTestTakers](https://github.com/profullstack/hiretesttakers-web) | JavaScript, Svelte | Marketplace connecting test-takers with clients; supports cryptocurrency payments. |
+| 196 | [OpenGov Africa Hacktoberfest](https://github.com/OpenGovAfrica/hacktoberfest/tree/main) | Markdown | Open-source community for civic tech in Africa; multiple contributor roles (devs, writers, designers, etc.). |
+| 197 | [Student Management System](https://github.com/RabindranathChanda/Student_Management_System) | C# | Desktop application for managing student data, beginner-friendly issues labeled for Hacktoberfest. |
+| 198 | [Chat Real](https://github.com/juninhokaponne/chat-real) | React, TypeScript | Real-time P2P video chat platform (duplicate entry; already in 173). |
+| 199 | [HerHaven](https://github.com/nurulain0/HerHaven) | React, Node.js, Express, MongoDB | Women-led open-source platform for creativity and collaboration; frontend, backend, and documentation contributions welcome. |
+| 200 | [Pariksha](https://github.com/VishwaKraft/pariksha) | JavaScript | Online quiz portal for MCQ-based exams. |
+| 201 | [MERN Expense Tracker](https://github.com/Sathvikaeshkilla/mern-expense-tracker) | JavaScript | Full-stack MERN app with authentication, expense management, chart visualization, and responsive UI. |
+| 202 | [Shiksha AI](https://github.com/skully-coder/shiksha-ai) | TypeScript | AI-enabled project for automating lesson plans, worksheets, and educational content in low connectivity areas. |
+| 203 | [AsHelp](https://github.com/kris70lesgo/asHelp) | Next.js, TypeScript, Supabase | Platform for assignment management; connects students to top-performing peers, handles secure transactions, modern responsive web app. |
+| 204 | [Podcast Hub](https://github.com/cryptohub53/podcast-hub) | Next.js, TailwindCSS | Discover podcasts using a simple and interactive web interface. |
 
 
 
