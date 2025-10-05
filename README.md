@@ -243,7 +243,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 217 | [OpenSauce](https://github.com/xthxr/OpenSauce) | Python, Java | Beginner-friendly repository for Data Structures and Algorithms in multiple languages. Open for new implementations and optimizations. |
 | 218 | [Student Management System](https://github.com/RabindranathChanda/Student_Management_System) | C# | Desktop app for managing student data. Beginner and advanced issues open for contributors learning C#/.NET. |
 | 219 | [SafePathAI](https://github.com/SrinjoyeeDey/SafePathAI-AI-Powered-Safety-Assistance-App) | TypeScript, React, Node.js, MongoDB, TailwindCSS | AI-powered personal safety and assistance app. Frontend and backend contributions welcome for UI, map integrations, and AI features. |
-
+| 220 | [Real-Time Code Editor](https://github.com/siddxharth1/real-time-code-editor) | React, Node.js, Socket.IO, Redis, Monaco Editor, TailwindCSS, NextUI (HeroUI currently) | Collaborative coding platform where multiple users can code, chat, and brainstorm together in real time. Includes multi-language syntax highlighting, live code execution, and room-based sessions with user presence. [Live Demo](https://code-buddies-mern.vercel.app/) |
 
 
 ## How to Contribute
