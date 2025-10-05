@@ -229,6 +229,20 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 203 | [AsHelp](https://github.com/kris70lesgo/asHelp) | Next.js, TypeScript, Supabase | Platform for assignment management; connects students to top-performing peers, handles secure transactions, modern responsive web app. |
 | 204 | [Podcast Hub](https://github.com/cryptohub53/podcast-hub) | Next.js, TailwindCSS | Discover podcasts using a simple and interactive web interface. |
 | 205 | [OpenUI-Library](https://github.com/alirezazim03/OpenUI-Library) | React.js, TailwindCSS | A community-driven, open-source library of reusable UI components for modern web development. |
+| 206 | [Valkyrie](https://github.com/AllDotPy/Valkyrie) | Python | Open-source security scanner for CI/CD pipelines; detects secrets leakage, vulnerable dependencies, and risky IAM configs. Contributors can add scanning rules, plugins, CI/CD integrations, and docs. |
+| 207 | [GoPredict](https://github.com/harshitaphadtare/GoPredict) | Python | Machine learning project for predicting trip durations using regression models and advanced feature engineering. Contributions welcome for model optimization and frontend improvements. |
+| 208 | [fastkml](https://github.com/cleder/fastkml) | Python | Library to read, write, and manipulate KML files efficiently. Handles geometries via pygeoif, supports KML clients like Google Earth and OpenLayers. Beginner-friendly issues available. |
+| 209 | [QAManagementSystem](https://github.com/Pythagora-io/QAMangementSystem) | TypeScript | QA management platform integrating Linear, MongoDB, charts, and email automation. Contributions open for backend, dashboard improvements, and testing. |
+| 210 | [ngx-stories](https://github.com/Gauravdarkslayer/ngx-stories) | TypeScript, SCSS | Angular component for rendering Instagram/WhatsApp-style stories. Contributors can add new features, fix issues, or improve UI animations. |
+| 211 | [MERN Project CLI](https://github.com/dineshpinto/mern-project-cli) | JavaScript | Command-line tool for scaffolding and managing MERN stack projects. Help by fixing bugs, improving docs, and adding new templates or features. |
+| 212 | [NetworkTopologyAnalyser](https://github.com/Gouging-Infernos/NetworkTopologyAnalyser) | Python | Network scanner that detects devices, subnets, and visualizes topology. Perfect for networking and cybersecurity contributors. |
+| 213 | [Love-Calculator](https://github.com/Deepak-Kambala/Love-Calculator) | HTML, CSS, JavaScript | Beginner-friendly web app that calculates a fun “love score” between two names. Contribute by enhancing UI/UX or adding creative animations. |
+| 214 | [PtitPrince](https://github.com/pog87/PtitPrince) | Python | Python implementation of the Raincloud plot for elegant data visualization. Contributions open for code improvements and docs. |
+| 215 | [diffgraph-cli](https://github.com/wildestai/diffgraph-cli) | Python | AI-powered CLI tool that visualizes git code changes and generates dependency graphs. Help improve AI understanding, HTML reports, or CLI UX. |
+| 216 | [Hopp](https://github.com/gethopp/hopp) | TypeScript, React, TailwindCSS, Go, Rust | Open-source pair programming and API testing app. Contributors welcome for frontend, backend, and Rust core improvements. |
+| 217 | [OpenSauce](https://github.com/xthxr/OpenSauce) | Python, Java | Beginner-friendly repository for Data Structures and Algorithms in multiple languages. Open for new implementations and optimizations. |
+| 218 | [Student Management System](https://github.com/RabindranathChanda/Student_Management_System) | C# | Desktop app for managing student data. Beginner and advanced issues open for contributors learning C#/.NET. |
+| 219 | [SafePathAI](https://github.com/SrinjoyeeDey/SafePathAI-AI-Powered-Safety-Assistance-App) | TypeScript, React, Node.js, MongoDB, TailwindCSS | AI-powered personal safety and assistance app. Frontend and backend contributions welcome for UI, map integrations, and AI features. |
 
 
 
