@@ -264,9 +264,6 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 237 | [Text-Type Detection](https://github.com/profullstack/text-type-detection) | Node.js | A lightweight Node.js module for detecting text types such as plain text, markdown, HTML, JSON, or code blocks. Zero dependencies and ideal for text-processing projects. |
 | 238 | [Initly](https://github.com/anup2702/initly) | JavaScript, Node.js, CLI | A simple CLI tool to scaffold project templates, currently supporting MERN stack with Docker. Perfect for adding new stacks, improving templates, or enhancing the CLI. |
 | 239 | [ByteChef](https://github.com/bytechefhq/bytechef?tab=readme-ov-file) | JavaScript, JSON, Workflow Automation | A low-code/no-code automation and API integration platform. Features UI workflow editor, built-in code editor, AI-ready components, and self-hosting capabilities. Scalable and developer-friendly. |
-| 240 | [AiVoiceClonerPRO](https://github.com/AryanVBW/AiVoiceClonerPRO) | Python | A low-code/no-code automation and API integration platform. Features UI workflow editor, built-in code editor, AI-ready components, and self-hosting capabilities. Scalable and developer-friendly. |
-| 241 | [VPrep_Interview_Bot](https://github.com/mainak0907/VPrep_Interview_Bot) | TypeScript, JavaScript, CSS | Interview Agent powered by Assembly AI and Gemini to help you improve Speaking skills in an interview. |
-| 242 | [HealthAI Assistant](https://github.com/NikhilRaikwar/HealthAI-Assistant) | TypeScript | An AI-powered healthcare assistant that provides medical information, symptom analysis, and health recommendations using Google's Gemini AI. |
 
 ## How to Contribute
 
